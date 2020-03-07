@@ -1,0 +1,20 @@
+ªº
+ Z @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+h1{
+	color:dimgray;
+	font-size: 5em;
+	font-family: "Anton"
+}
+p{
+	color:dimgray;
+	font-family: "Barlow"
+}
+a:link{
+	color:firebrick;
+}
+a:visited{
+	color: darkorange;
+}
+a:hover {
+	text-decoration: none
+}
